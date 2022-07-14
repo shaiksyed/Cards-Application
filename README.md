@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Step 1: Download Node.js Installer. In a web browser, navigate to https://nodejs.org/en/download/. ...
+Step 2: Install Node.js and NPM from Browser. Once the installer finishes downloading, launch it. ...
+Step 3: Verify Installation
+
+### `npm install`
+
+Install all the required dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
