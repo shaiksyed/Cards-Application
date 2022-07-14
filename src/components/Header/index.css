@@ -1,0 +1,32 @@
+.nav-header {
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: transparent;
+    border-style: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(128, 114, 114);
+    margin-top: 0px;
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+    margin-left: -10px;
+}
+
+.nav-link {
+    font-family: 'Roboto';
+    font-size: 26px;
+    color: rgb(110, 98, 98);
+    text-decoration: none;
+    margin-left: 10px;
+    padding-bottom: 42px;
+}
+.selected  {
+    color: black;
+    border-bottom:  '4px solid red';
+}

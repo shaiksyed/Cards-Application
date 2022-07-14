@@ -1,0 +1,37 @@
+.filter-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+.filter-button{
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    margin-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.search-icon{
+    margin-top: 5px;
+}
+.filter-icon{
+    padding-right: 6px;
+    margin-left: 5px;
+    padding-top: 2px;
+}
+.no-data{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+}
+.modal{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

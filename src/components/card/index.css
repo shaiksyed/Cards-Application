@@ -1,0 +1,111 @@
+.card-container {
+    border-radius: 12px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    width: 82%;
+    max-width: 700px;
+    padding: 15px;
+    padding-bottom: 30px;
+  }
+.card-top-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.cardname-deatils {
+    color: rgb(0, 0, 0);
+    font-family: "Open Sans";
+    width: 90%;
+    max-width: 900px;
+    max-height: auto;
+  }
+  .card-holder{
+    font-size: 20px;
+    margin-top: 10px;
+    max-height: 10px;
+    color: rgb(91, 76, 76);
+    margin-bottom: 0px;
+  }
+  .card-name{
+    margin-bottom: 15px;
+    font-size: 30px;
+    max-height: 10px;
+    color: rgb(0, 0, 0);
+  }
+  .budget-name{
+    font-size: 18px;
+    border: 2px solid lightgray;
+    color: rgb(116, 103, 103) ;
+    border-radius: 8px;
+    padding: auto;
+    padding-right: 15px;
+    width: auto;
+    padding-left: 10px;
+  }
+  .icon{
+    margin-top: 20px;
+    margin-right: 30px;
+    font-size: 30px;
+    border-radius: 36px;
+    padding: 10px;
+    background-color: hwb(300 91% 4% / 0.532);
+  }
+  .spot{
+    color: rgb(116, 103, 103) ;
+    padding: 0px;
+    font-size: 40px;
+  }
+  .red-spot{
+    margin: 0px;
+    font-size: 100px;
+    color: red;
+  }
+  .card-datail{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    max-height: 10px;
+    color: rgb(91, 76, 76);
+
+  }
+
+.list-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.list{
+    margin-right: 0px;
+    color: red;
+    border: none;
+    font-size: 40px;
+}
+.circle {
+    margin-top: 25px;
+    margin-right : 10px;
+    margin-bottom: 0px;
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+  }
+  .circle-color{
+    background-color: green;
+  }
+  .grey-circle{
+    margin-right : 8px;
+    margin-left: 8px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    display: flex;
+    width: 7px;
+    height: 7px;
+    background-color: grey;
+    border-radius: 50%;
+  }
